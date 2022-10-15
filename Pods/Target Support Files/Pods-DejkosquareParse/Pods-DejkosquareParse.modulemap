@@ -1,0 +1,6 @@
+framework module Pods_DejkosquareParse {
+  umbrella header "Pods-DejkosquareParse-umbrella.h"
+
+  export *
+  module * { export * }
+}
